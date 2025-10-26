@@ -1,8 +1,8 @@
 ```
-git clone https://github.com/mrsdbd1/LP-VPS
+git clone https://github.com/mrsdbd1/LionCloud-VPS
 ```
 ```
-cd LP-VPS
+cd LionCloud-VPS
 ```
 ```
 apt install docker.io && apt install pip && apt install pip && apt install systemctl -y
