@@ -16,14 +16,14 @@ import string
 from datetime import datetime, timedelta
 from typing import Optional, Literal
 
-TOKEN = ''
-RAM_LIMIT = '6g'
-SERVER_LIMIT = 1
+TOKEN = 'MTQyNzEzMTcyNjEzNTY5MzQ1Mw.G6AMyC.-oUCs-20DP2a5I9qWGrnZ_ouEml7aFSpS1NFZw'
+RAM_LIMIT = '100g'
+SERVER_LIMIT = 10
 database_file = 'database.txt'
-PUBLIC_IP = '138.68.79.95'
+PUBLIC_IP = '172.0.0.1'
 
 # Admin user IDs - add your admin user IDs here
-ADMIN_IDS = [1368602087520473140]  # Replace with actual admin IDs
+ADMIN_IDS = [1391721016933224461]  # Replace with actual admin IDs
 
 intents = discord.Intents.default()
 intents.messages = False
