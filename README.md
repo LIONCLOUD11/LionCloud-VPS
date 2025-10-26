@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/mrsdbd1/LionCloud-VPS
+git clone https://github.com/indhost/LionCloud-VPS
 ```
 ```
 cd LionCloud-VPS
